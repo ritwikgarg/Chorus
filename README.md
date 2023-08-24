@@ -20,4 +20,4 @@ composer require jwilsson/spotify-web-api-php
 ```
 ## Demo Video
 
-[![Watch the Video](https://github.com/ritwikgarg/Chorus/assets/81905343/820c24da-f193-4e3c-b5e3-ce0c36ac5a75)](https://drive.google.com/file/d/1wddugDO1Hbh3EKOz944R5epaJv6EXRFF/view)
+[![Watch the video](https://www.youtube.com/watch?v=frJPB6ZIBJ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=frJPB6ZIBJ8)
