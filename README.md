@@ -19,4 +19,4 @@ No need to install for execution of program.
 composer require jwilsson/spotify-web-api-php
 ```
 ## Demo Video
-[Google Drive Link](https://drive.google.com/file/d/1wddugDO1Hbh3EKOz944R5epaJv6EXRFF/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/18iij2_wyCaN3tmmzaPWrMLKS6cAZCly8/view?usp=drive_link)]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1wddugDO1Hbh3EKOz944R5epaJv6EXRFF/view?usp=sharing))
