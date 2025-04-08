@@ -1,6 +1,8 @@
 # Chorus
 A music guessing game developed using PHP and JS.
 
+This project unfortunately never made it out of localhost since Spotify forbids the use of it's API for the creation of games/trivia quizzes ([read more here](https://developer.spotify.com/policy))
+
 
 ## Requirements
 * PHP 7.3 or later.
