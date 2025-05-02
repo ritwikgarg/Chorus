@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/3bc5673e-d8a9-491c-9390-e7db81848bf3
 # Chorus
 A music guessing game developed using PHP and JS.
 
@@ -22,4 +24,4 @@ composer require jwilsson/spotify-web-api-php
 ```
 ## Demo Video
 
-[![Watch the video](https://www.youtube.com/watch?v=frJPB6ZIBJ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=frJPB6ZIBJ8)
+Uploading Chorus Demo (1).mp4…
